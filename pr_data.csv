@@ -1,0 +1,45 @@
+repo,title,created_at,labels,url
+AdaCore/training_material,removed example_extract and the unused containers examples,2025-03-05 16:31:17+00:00,,https://github.com/AdaCore/training_material/pull/512
+AdaCore/training_material,Advanced resources management,2025-01-16 14:17:02+00:00,,https://github.com/AdaCore/training_material/pull/486
+AdaCore/training_material,"020: warnings, tips",2025-02-28 13:31:50+00:00,,https://github.com/AdaCore/training_material/pull/510
+AdaCore/training_material,Build/pandoc fe cleanup,2024-12-05 13:14:07+00:00,,https://github.com/AdaCore/training_material/pull/453
+AdaCore/training_material,Convert grid table to list table,2025-02-14 19:39:26+00:00,,https://github.com/AdaCore/training_material/pull/502
+AdaCore/training_material,Mr/197 use system provided adacut,2024-12-17 13:54:16+00:00,,https://github.com/AdaCore/training_material/pull/468
+AdaCore/training_material,Slides/194 break 245 ravenscar nto chapters,2024-12-12 19:34:10+00:00,,https://github.com/AdaCore/training_material/pull/466
+AdaCore/training_material,relaxed finalization with Finalize aspect,2024-11-21 13:56:36+00:00,,https://github.com/AdaCore/training_material/pull/444
+AdaCore/training_material,Slides/178 2024 11 04 sas das,2024-11-18 16:22:09+00:00,,https://github.com/AdaCore/training_material/pull/433
+AdaCore/training_material,Slides/110 low level improvements,2024-10-28 16:13:55+00:00,,https://github.com/AdaCore/training_material/pull/428
+Intelligente-sanntidssystemer/Ada-prosjekt,Delete Bil,2020-11-16 11:09:36+00:00,,https://github.com/Intelligente-sanntidssystemer/Ada-prosjekt/pull/1
+JCGobbi/Nucleo-STM32G474RE,Correct fields set by HRTimers.Set_Swap_Outputs.,2025-06-12 14:25:21+00:00,,https://github.com/JCGobbi/Nucleo-STM32G474RE/pull/11
+JCGobbi/Nucleo-STM32G474RE,Wait for STM32 timer output to be enabled before returning from enable procedure.,2024-11-17 12:10:26+00:00,,https://github.com/JCGobbi/Nucleo-STM32G474RE/pull/10
+JCGobbi/Nucleo-STM32G474RE,Update LPTimers driver constraints to match reference manual constraints.,2024-09-15 11:43:28+00:00,,https://github.com/JCGobbi/Nucleo-STM32G474RE/pull/9
+JCGobbi/Nucleo-STM32G474RE,Correct LPTimer remaps comment to match reference manual.,2024-09-14 07:42:54+00:00,,https://github.com/JCGobbi/Nucleo-STM32G474RE/pull/8
+JCGobbi/Nucleo-STM32G474RE,Fix various uses of 'Val that should be 'Enum_Val.,2024-06-13 07:40:59+00:00,,https://github.com/JCGobbi/Nucleo-STM32G474RE/pull/4
+JCGobbi/Nucleo-STM32G474RE,Remove erroneous enabling of DMA before configuration.,2024-06-12 14:48:23+00:00,,https://github.com/JCGobbi/Nucleo-STM32G474RE/pull/2
+JCGobbi/Nucleo-STM32G474RE,Correct HRTimer_Prescaler values.,2024-05-30 10:32:06+00:00,,https://github.com/JCGobbi/Nucleo-STM32G474RE/pull/1
+Stykk-Gruppen/rts-project,Ko/mod,2020-10-07 15:56:13+00:00,,https://github.com/Stykk-Gruppen/rts-project/pull/3
+Stykk-Gruppen/rts-project,Added Distance Sensors Controller Idea,2020-09-25 16:09:09+00:00,,https://github.com/Stykk-Gruppen/rts-project/pull/2
+Stykk-Gruppen/rts-project,Endret programmet for å passe med begrenset task funksjonalitet i rav…,2020-09-19 18:19:42+00:00,,https://github.com/Stykk-Gruppen/rts-project/pull/1
+TNO/Rejuvenation-Ada,correct typo,2024-09-06 06:46:17+00:00,,https://github.com/TNO/Rejuvenation-Ada/pull/15
+TNO/Rejuvenation-Ada,Added interface to open files from a project based on a file path to a project file,2022-08-25 11:25:53+00:00,,https://github.com/TNO/Rejuvenation-Ada/pull/11
+TNO/Rejuvenation-Ada,Split GitHub workflow and various fixes,2022-04-11 15:45:18+00:00,,https://github.com/TNO/Rejuvenation-Ada/pull/3
+TUM-EI-RCS/StratoX,Insert base type for the dimension system type for GNAT GPL 2017,2017-06-30 14:52:02+00:00,,https://github.com/tum-ei-rcs/StratoX/pull/4
+hergin/ada2fuml,Language independent xml,2021-05-18 19:52:59+00:00,,https://github.com/hergin/ada2fuml/pull/15
+hergin/ada2fuml,Jdk1 8,2019-10-08 14:55:47+00:00,,https://github.com/hergin/ada2fuml/pull/13
+hergin/ada2fuml,Schema with parent,2019-07-23 16:45:50+00:00,,https://github.com/hergin/ada2fuml/pull/12
+joewing/arbitrary,Please Review changes.,2019-01-28 22:25:47+00:00,,https://github.com/joewing/arbitrary/pull/1
+reznikmm/gela,Add simple ASIS example,2019-10-16 09:09:05+00:00,,https://github.com/reznikmm/gela/pull/1
+spr93/whitakers-words,sync,2022-08-07 21:55:36+00:00,,https://github.com/spr93/whitakers-words/pull/1
+thindil/steamsky,Fix misspellings and grammar errors.,2020-02-17 22:11:23+00:00,,https://github.com/thindil/steamsky/pull/58
+thindil/steamsky,Grammar fixes,2020-02-14 02:12:39+00:00,,https://github.com/thindil/steamsky/pull/57
+thindil/steamsky,Additional grammar fixes,2020-02-13 00:24:50+00:00,,https://github.com/thindil/steamsky/pull/56
+thindil/steamsky,Various Grammar fixes.,2020-02-12 04:31:45+00:00,,https://github.com/thindil/steamsky/pull/54
+thindil/steamsky,Grammar and sentence structure.,2020-02-10 02:19:50+00:00,,https://github.com/thindil/steamsky/pull/52
+thindil/steamsky,Update steamsky.desktop,2019-02-26 07:31:34+00:00,,https://github.com/thindil/steamsky/pull/43
+thindil/steamsky,Update 2.0 README.md with changes form master,2018-06-13 11:21:16+00:00,,https://github.com/thindil/steamsky/pull/27
+thindil/steamsky,Update README.md,2018-06-12 15:26:43+00:00,,https://github.com/thindil/steamsky/pull/26
+thindil/steamsky,More grammar fixes!,2018-05-31 20:06:14+00:00,,https://github.com/thindil/steamsky/pull/25
+thindil/steamsky,Fix grammar/spelling,2018-04-14 17:51:53+00:00,,https://github.com/thindil/steamsky/pull/16
+ytomino/drake,Remove trailing slash on order-only prerequisites,2018-06-11 09:16:44+00:00,,https://github.com/ytomino/drake/pull/8
+ytomino/drake,Grammar corrections,2014-07-24 10:59:56+00:00,,https://github.com/ytomino/drake/pull/2
+ytomino/drake,Convert if-else statements to case statements for clarity,2014-02-20 09:35:16+00:00,,https://github.com/ytomino/drake/pull/1
