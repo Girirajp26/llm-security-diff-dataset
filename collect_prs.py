@@ -18,7 +18,7 @@ with open("pr_data.csv", "w", newline="", encoding="utf-8") as csvfile:
     writer.writeheader()
 
     for repo_name in repos:
-        print(f"\n🔍 Checking {repo_name}")
+        print(f"\n Checking {repo_name}")
         try:
             repo = g.get_repo(repo_name)
             prs = repo.get_pulls(state="closed", sort="updated", direction="desc")
